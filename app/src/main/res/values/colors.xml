@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    ================================================================================================
+    Base Colors
+    ================================================================================================
+    -->
+
+    <!-- Base Transparente -->
+    <color name="base_color_transparent_0">#64222421</color>
+    <color name="base_color_transparent_1">#24222421</color>
+
+    <!-- Base White -->
+    <color name="base_color_white_0">#ffffff</color>
+    <color name="base_color_white_100">#f5f9f1</color>
+    <color name="base_color_white_200">#e9ebe6</color>
+    <color name="base_color_white_300">#dce0d8</color>
+    <color name="base_color_white_400">#cfd5ca</color>
+    <color name="base_color_white_500">#c3c9bc</color>
+
+    <!-- Base Grey -->
+    <color name="base_color_grey_100">#9ca096</color>
+    <color name="base_color_grey_200">#888c83</color>
+    <color name="base_color_grey_300">#757870</color>
+    <color name="base_color_grey_400">#61645e</color>
+    <color name="base_color_grey_500">#4e504b</color>
+
+    <!-- Base Black -->
+    <color name="base_color_black_0">#000000</color>
+    <color name="base_color_black_100">#3a3c38</color>
+    <color name="base_color_black_200">#343632</color>
+    <color name="base_color_black_300">#2e302c</color>
+    <color name="base_color_black_400">#282a27</color>
+    <color name="base_color_black_500">#222421</color>
+
+    <!-- Base Tranparent Black -->
+    <color name="base_color_transparent_black_0">#00000000</color>
+    <color name="base_color_transparent_black_100">#26000000</color>
+    <color name="base_color_transparent_black_200">#40000000</color>
+    <color name="base_color_transparent_black_300">#0D000000</color>
+    <color name="base_color_transparent_black_400">#01000000</color>
+
+    <!-- Base Brown -->
+    <color name="base_color_brown_100">#8c7969</color>
+    <color name="base_color_brown_200">#6f6153</color>
+    <color name="base_color_brown_300">#605448</color>
+    <color name="base_color_brown_400">#51473d</color>
+    <color name="base_color_brown_500">#433b32</color>
+
+    <!-- Base Purple -->
+    <color name="base_color_purple_100">#b58cc0</color>
+    <color name="base_color_purple_200">#a06bae</color>
+    <color name="base_color_purple_300">#955ba5</color>
+    <color name="base_color_purple_400">#865295</color>
+    <color name="base_color_purple_500">#774984</color>
+
+    <!-- Base Pink -->
+    <color name="base_color_pink_100">#f6adb6</color>
+    <color name="base_color_pink_200">#f17f8c</color>
+    <color name="base_color_pink_300">#ef6878</color>
+    <color name="base_color_pink_400">#ed5164</color>
+    <color name="base_color_pink_500">#ea3a4f</color>
+
+    <!-- Base Red -->
+    <color name="base_color_red_100">#ef958b</color>
+    <color name="base_color_red_200">#e96c5e</color>
+    <color name="base_color_red_300">#e65848</color>
+    <color name="base_color_red_400">#e34432</color>
+    <color name="base_color_red_500">#c62c1b</color>
+    <color name="base_color_red_600">#dd4b39</color>
+    <color name="base_color_red_700">#c64333</color>
+
+    <!-- Base Orange -->
+    <color name="base_color_orange_100">#fcb82f</color>
+    <color name="base_color_orange_200">#fcb015</color>
+    <color name="base_color_orange_300">#f5a503</color>
+    <color name="base_color_orange_400">#dc9403</color>
+    <color name="base_color_orange_500">#c38302</color>
+
+    <!-- Base Yellow -->
+    <color name="base_color_yellow_100">#fedb82</color>
+    <color name="base_color_yellow_200">#fdcc4f</color>
+    <color name="base_color_yellow_300">#fdc536</color>
+    <color name="base_color_yellow_400">#fdbe1d</color>
+    <color name="base_color_yellow_500">#e4a502</color>
+
+    <!-- Base Green Yellow -->
+    <color name="base_color_green_yellow_100">#c8dd66</color>
+    <color name="base_color_green_yellow_200">#b9d33c</color>
+    <color name="base_color_green_yellow_300">#aec92d</color>
+    <color name="base_color_green_yellow_400">#9cb428</color>
+    <color name="base_color_green_yellow_500">#8a9f24</color>
+
+    <!-- Base Green -->
+    <color name="base_color_green_100">#83dc97</color>
+    <color name="base_color_green_200">#5bd176</color>
+    <color name="base_color_green_300">#47cb65</color>
+    <color name="base_color_green_400">#37c257</color>
+    <color name="base_color_green_500">#31ae4e</color>
+
+    <!-- Base Blue Green -->
+    <color name="base_color_blue_green_100">#55d8c0</color>
+    <color name="base_color_blue_green_200">#2fcbaf</color>
+    <color name="base_color_blue_green_300">#2ab69d</color>
+    <color name="base_color_blue_green_400">#25a18b</color>
+    <color name="base_color_blue_green_500">#1c7867</color>
+
+    <!-- Base Blue -->
+    <color name="base_color_blue_100">#89e6e6</color>
+    <color name="base_color_blue_200">#5fdddd</color>
+    <color name="base_color_blue_300">#4ad9d9</color>
+    <color name="base_color_blue_400">#35d5d5</color>
+    <color name="base_color_blue_500">#2ac6c6</color>
+
+    <!-- Base Dark Blue -->
+    <color name="base_color_dark_blue_100">#6eb8e8</color>
+    <color name="base_color_dark_blue_200">#42a2e1</color>
+    <color name="base_color_dark_blue_300">#2c97de</color>
+    <color name="base_color_dark_blue_400">#218ad0</color>
+    <color name="base_color_dark_blue_450">#11496f</color>
+    <color name="base_color_dark_blue_500">#1d7bba</color>
+    <color name="base_color_dark_blue_600">#3664a2</color>
+    <color name="base_color_dark_blue_700">#2b5081</color>
+
+    <!--
+    ================================================================================================
+    Application Color
+    ================================================================================================
+    -->
+
+    <!-- ClassTheme -->
+    <color name="colorPrimary">@color/base_color_dark_blue_200</color>
+    <color name="colorActionMode">@color/base_color_dark_blue_200</color>
+    <color name="colorAccent">@color/base_color_dark_blue_200</color>
+    <color name="colorControlNormal">@color/base_color_white_400</color>
+    <color name="colorControlActivated">@color/base_color_dark_blue_100</color>
+    <color name="colorControlHighlight">@color/base_color_dark_blue_100</color>
+    <color name="colorPrimaryDark">@color/base_color_dark_blue_300</color>
+    <color name="colorTextPrimary">@color/base_color_grey_300</color>
+    <color name="colorTextSecondary">@color/base_color_white_500</color>
+    <color name="windowBackground">@color/base_color_white_0</color>
+
+    <!--
+    ================================================================================================
+    Components
+    ================================================================================================
+    -->
+
+    <!-- Item List -->
+    <color name="item_list_bg">@color/base_color_white_0</color>
+    <color name="item_list_bg_pressed">@color/base_color_white_200</color>
+
+
+</resources>

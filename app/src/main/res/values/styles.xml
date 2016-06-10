@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Dialog" parent="Base.Theme.AppCompat.Dialog">
+
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorControlNormal</item>
+        <item name="colorControlActivated">@color/colorControlActivated</item>
+        <item name="colorControlHighlight">@color/colorControlHighlight</item>
+        <item name="android:textColorPrimary">@color/colorTextPrimary</item>
+        <item name="android:textColorHint">@color/colorTextSecondary</item>
+
+    </style>
+
+    <!--
+    ================================================================================================
+    EditText
+    ================================================================================================
+    -->
+
+    <style name="EditText" parent="@style/Widget.AppCompat.EditText">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxWidth">@dimen/edit_text_max_width</item>
+        <item name="android:textSize">@dimen/edit_text_text_size</item>
+        <item name="android:paddingBottom">@dimen/edit_text_padding</item>
+        <item name="android:paddingTop">@dimen/edit_text_padding</item>
+        <item name="android:layout_marginBottom">@dimen/edit_text_margin</item>
+        <item name="android:layout_marginTop">@dimen/edit_text_margin</item>
+
+    </style>
+
+</resources>
