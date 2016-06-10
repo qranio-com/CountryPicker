@@ -9,11 +9,6 @@ public class FilterCountries implements Filter<Country> {
     private String[] nameList;
     private String comp;
 
-    /**
-     * Construtor da classe
-     *
-     * @param nameItens coleção de nomes
-     */
     public FilterCountries(String... nameItens) {
 
         this.nameList = nameItens;
